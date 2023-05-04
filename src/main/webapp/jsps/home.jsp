@@ -20,12 +20,9 @@
 		<img src="images/logo.png" alt="" width="250">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+	
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:adpecengineeringltd.com">Mail to Adpec Engineering</a>
 	</span>
 </div>
 <hr>
